@@ -1,0 +1,48 @@
+!Defaults
+    *Foreground: #333333
+
+    *Background: #CCCCCC
+    *troughColor: #CCCCCC
+
+    *activeBackground: #999999
+
+    *activeForeground: #333333
+
+    *disabledForeground: #989898
+
+    *HighlightBackground: #00FFFF
+    *HighlightColor: #00FFFF
+
+    *selectForeground: #333333
+    *selectBackground: #00FFFF
+    *selectColor: #00FFFF
+
+    *insertBackground: #333333
+
+!Buttons
+    !overRelief
+    *Spinbox.buttonBackground: #DDDDDD
+    *Spinbox.disabledBackground: #555555
+    *Spinbox.readonlyBackground: #DDDDDD
+
+!Frames
+    *Frame.HighlightColor: #00FFFF
+    *Frame.HighlightBackground: #00FFFF
+
+!Menus
+    !activeBorderWidth
+    *Menu.activeBackground: #00FFFF
+    *Menu.activeForeground: #FFFFFF
+    *Menu.font: TkDefaultFont 8
+    *Menubutton.HighlightBackground: #DDDDDD
+    *Menubutton.HighlightColor: #DDDDDD
+
+!Text
+    *Text.inactiveSelectBackground: #00FFFF
+    *Text.Background: #EEEEEE
+    *Entry.Background: #EEEEEE
+
+!Listbox
+    !Can be dotbox
+    *Listbox.activeStyle: underline
+    !*Listbox.selectBorderWidth: 2
